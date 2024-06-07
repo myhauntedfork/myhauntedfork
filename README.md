@@ -1,5 +1,5 @@
-Languages: 
-JavaScript [JS, HTML, CSS]
+Languages - 
+JavaScript [JS, HTML, CSS],
 Godot [GDScript]
 
 
