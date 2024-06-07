@@ -1,5 +1,6 @@
-Languages: JavaScript, GDScript (Godot)
-
+Languages: 
+JavaScript [JS, HTML, CSS]
+Godot [GDScript]
 
 
 
