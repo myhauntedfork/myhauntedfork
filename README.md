@@ -1,4 +1,4 @@
-Languages: JavaScript - GDScript - Python
+JavaScript - GDScript - Python
 
 
 
