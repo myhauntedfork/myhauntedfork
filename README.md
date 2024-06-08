@@ -1,4 +1,1 @@
-JavaScript - GDScript - Python
-
-
-
+Languages: JS, HTML, CSS, GDS, PY
