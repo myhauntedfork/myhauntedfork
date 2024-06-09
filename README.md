@@ -1,1 +1,1 @@
-Languages: JS, HTML, CSS, GDS, PY
+Languages:  JS, HTML, CSS, GDS, PY, English :)
