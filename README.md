@@ -1,1 +1,1 @@
-Languages:  JS, HTML, CSS, GDS, PY, English :)
+Languages =  ["JS", "HTML", "CSS", "PY", "GDS", "English"] 
