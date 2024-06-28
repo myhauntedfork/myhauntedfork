@@ -1,1 +1,1 @@
-Languages =  ["JS", "HTML", "CSS", "PY", "GDS", "English"] 
+languages  =   ["JS", "HTML", "CSS", "PY", "GDS", "English"] 
