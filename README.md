@@ -1,1 +1,1 @@
-languages  =   ["JS", "HTML", "CSS", "PY", "GDS", "English"] 
+I know js, html, css, py, gds, english, and a little c++
