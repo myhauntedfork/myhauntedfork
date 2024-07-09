@@ -1,7 +1,7 @@
 I know js, html, css, py, gds, english, and a little c++
 
 THE PROGRAMMER
-by ChatGPT (with changes by Andrew Hinckley)
+by ChatGPT
 
 In the kingdom of code, where bugs do play, 
 Lives a programmer bold, coding night and day. 
