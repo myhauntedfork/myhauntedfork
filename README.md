@@ -1,5 +1,5 @@
 # **MyHauntedFork**
-Welcome to my profile, The digital equivalent of a "Do Not Disturb" sign.
+Welcome to my profile!
 
 ## **Languages**
 I know a few languages, including:
