@@ -4,7 +4,7 @@ Welcome to my profile!
 ## **Languages**
 I know a few languages, including:
 - **Python**: Who doesn't like a language named after Monty Python?
-- **JavaScript (Including HTML & CSS)**:  The trinity of web development.
+- **JavaScript (Including HTML & CSS)**:  Eternal frustration and occasional pleasure.
 - **English (Including Sarcasm & Brainrot)**: I don't *hate* it, I just passionately dislike it.
 - **GDScript (Godot)**:  If I'm going to waste time learning a niche language, I'm gonna do it with style.
 
