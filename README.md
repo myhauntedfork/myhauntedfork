@@ -7,6 +7,6 @@ I know a few languages, including:
 - **JavaScript**: Intellectual romantic torture.
 - **English (Including Sarcasm & Brainrot)**: I don't *hate* it, I just passionately dislike it.
 - **GDScript**: A language specifically for Godot.
-- **C**: The OG programming language.
+- **C**: The mother of programming languages.
 - **C++**: "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off."
 - **Swift**: Apple's language for iOS and macOS apps.
